@@ -1,0 +1,4 @@
+Feature set,Dimensions,Accuracy %,vs baseline
+Baseline (16 scaled features),16,94.08,0.0
+Branch A - selection (10 features),10,93.73,-0.35
+Branch B - PCA (12 components),12,92.15,-1.93
