@@ -1,0 +1,2 @@
+cv_macro_f1,test_accuracy,test_macro_f1,test_weighted_f1,train_rows,test_rows,cv_folds,candidates
+0.9205490885906805,0.9271558650241029,0.9269418919697462,0.9272033516218605,14934,3734,5,18
